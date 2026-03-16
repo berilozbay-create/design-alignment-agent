@@ -61,7 +61,7 @@ Design Alignment Agent follows a different paradigm. Instead of asking users to 
 
 ## Architecture
 
-![Architecture Diagram](Architecture Diagram.png)
+![Architecture Diagram](Architecture%20Diagram.png)
 ```
 Browser
   │
